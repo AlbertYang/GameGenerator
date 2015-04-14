@@ -14,7 +14,7 @@ import java.util.TimerTask;
 import javax.swing.*;
 import javax.swing.border.TitledBorder;
 
-//dfdsfasd
+//dfdsfasddfdf hhhhh
 public class Generator extends JFrame {
 
 	private JFileChooser chooser;
