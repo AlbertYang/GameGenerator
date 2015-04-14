@@ -1,0 +1,14 @@
+var I : [ 0, 6 ];
+var AVA0 : [ 0, 1 ];
+var AVA1 : [ 0, 1 ];
+var AVA2 : [ 0, 1 ];
+var AVA3 : [ 0, 1 ];
+var AVA4 : [ 0, 1 ];
+var AVA5 : [ 0, 1 ];
+
+AVA0 == if I eq 1 then 1 else 0;
+AVA1 == if I eq 2 then 1 else 0;
+AVA2 == if I eq 3 then 1 else 0;
+AVA3 == if I eq 4 then 1 else 0;
+AVA4 == if I eq 5 then 1 else 0;
+AVA5 == if I eq 6 then 1 else 0;

@@ -1,0 +1,10 @@
+var I0 : [ 0, 1 ];
+
+var AVA0 : [ 0, 1 ];
+
+first I0 == 0;
+
+first AVA0 == 0;
+
+next AVA0 == if I1 then 0 else if I0 then AVA1 else AVA0;
+next AVA0 == if I1 then AVA-1 else if I0 then 0 else AVA0;
